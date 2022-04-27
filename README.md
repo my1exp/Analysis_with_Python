@@ -7,7 +7,7 @@
 Cредствами PySpark получены 2 датафрейма с 5-ю самыми популярными и самыми непопулярными фильмами (по оценке).**
 ____
 
-### - ["Сравнительный анализ Bitcoin и Litecoin"](https://github.com/my1exp/Analysis_with_Python/blob/main/%D0%A1%D1%80%D0%B0%D0%B2%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20BTC%20%D0%B8%20LTC.ipynb)
+### - ["Сравнительный анализ Bitcoin и Litecoin"](https://github.com/my1exp/Analysis_with_Python/blob/main/crypto_analysis.ipynb)
 Цель проекта – провести сравнительный анализ Litecoin и Bitcoin, на основании их исторических данных.  
 Используемые технологии – Python (**Pandas, Plotly**).    
 **Результат – Сделаны выводы о корреляции цены активов, и их использовании.**
